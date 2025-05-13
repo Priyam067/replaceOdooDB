@@ -22,7 +22,7 @@ A simple shell script to quickly replace an Odoo PostgreSQL database (along with
 2. Copy the script to your system path:
 
    ```bash
-   sudo cp replacedb /usr/bin/
+   sudo cp replacedb /usr/bin/replacedb
    ```
 
 3. Make it executable:
