@@ -16,7 +16,7 @@ A simple shell script to quickly replace an Odoo PostgreSQL database (along with
 
 1. Download the script:
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/replacedb/main/replacedb
+   wget https://github.com/priyam067/replaceOdooDB/releases/latest/download/replacedb
    ```
 
 2. Copy the script to your system path:
